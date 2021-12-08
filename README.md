@@ -1,3 +1,4 @@
+## THIS IS DETECTED DONT USE ON BANCHO 
 ## osu!megumin
 osu!Megumin is an osu cheat forked from Kat and Aoba's osubuddy crack.
 
@@ -8,5 +9,5 @@ osu!Megumin is an osu cheat forked from Kat and Aoba's osubuddy crack.
 4. Enjoy!
 
 ## I DO NOT RECCOMEND THIS FOR GENUINE USE
-osubuddy is complete ass and megumin was made as a joke. This is very likely detected on Bancho.
+osubuddy is complete ass and megumin was made as a joke.
 
